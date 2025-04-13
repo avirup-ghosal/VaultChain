@@ -1,0 +1,14 @@
+# Binary output
+*.exe
+*.out
+
+# Env files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
