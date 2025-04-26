@@ -16,7 +16,7 @@ A simple yet powerful blockchain implementation written in Go, with CLI support 
 
 # How to Run the Project
 
-This guide explains how to clone, build, and run the GoChain blockchain project with CLI support using Cobra and PostgreSQL validation.
+This guide explains how to clone, build, and run the VaultChain blockchain project with CLI support using Cobra and PostgreSQL validation.
 
 ---
 
